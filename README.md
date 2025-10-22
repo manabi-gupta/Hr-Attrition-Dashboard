@@ -31,6 +31,10 @@ Microsoft Excel (Pivot Tables, Slicers, Charts, and Conditional Formatting)
 This is the table where I tried to change the format of the table and customize it accordingly
 <img width="1873" height="886" alt="Screenshot 2025-10-21 215909" src="https://github.com/user-attachments/assets/53d1f509-e84c-419e-b53d-399ecab22a65" />
 
+These are the respective pivot tables I used
+<img width="1492" height="711" alt="Screenshot 2025-10-22 212626" src="https://github.com/user-attachments/assets/9e820622-b3c7-4ee9-94cb-7c8a9cf63aff" />
+
+
 
 
 
