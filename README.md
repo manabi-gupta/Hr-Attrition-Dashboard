@@ -21,6 +21,18 @@ For Male
 For Female
 <img width="1867" height="886" alt="Female" src="https://github.com/user-attachments/assets/83ea6f20-2e21-47f1-9120-76f054880e8b" />
 
+## Tools & Techniques Used
+
+Microsoft Excel (Pivot Tables, Slicers, Charts, and Conditional Formatting)
+-Data Cleaning & Transformation
+-Dynamic Dashboards using Slicers and Linked Charts
+-Visual Design for Quick Data Interpretation
+
+This is the table where I tried to change the format of the table and customize it accordingly
+<img width="1873" height="886" alt="Screenshot 2025-10-21 215909" src="https://github.com/user-attachments/assets/53d1f509-e84c-419e-b53d-399ecab22a65" />
+
+
+
 
 
 
