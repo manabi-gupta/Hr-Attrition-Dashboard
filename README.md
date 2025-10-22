@@ -16,4 +16,8 @@ This is the final dashboard
 <img width="1870" height="942" alt="Final Dashboard" src="https://github.com/user-attachments/assets/8016b307-9c87-44b5-9811-6cde7b38d548" />
 
 It is interactive and here you can the analysiis based on gender
+<img width="1855" height="873" alt="Male" src="https://github.com/user-attachments/assets/75aee025-2cd7-428a-99fb-aec1d9c1ad27" />
+
+
+
 
